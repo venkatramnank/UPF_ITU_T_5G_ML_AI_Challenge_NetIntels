@@ -30,7 +30,7 @@ Approaches used for solving the problem and corresponding model accuracy for tra
   
 2.Random forest regressor : implementation of ensemble technique with use of multiple decesion trees and bagging.
 
-  RMSE=5.38 and MAE= l3.7
+  RMSE=5.38 and MAE= 3.7
   
 3.Artificial Neural Network : implementation of neural network in order to learn and reduce error during prediction (regression).
 
